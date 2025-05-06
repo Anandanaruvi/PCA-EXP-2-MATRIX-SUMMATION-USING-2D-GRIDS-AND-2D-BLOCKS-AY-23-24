@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 
-<h3>NAME: A.ARUVI D</h3>
+<h3>NAME: A.ARUVI </h3>
 <h3>REGISTER NO: 2122222300</h3>
 <h3>EX. NO : 02</h3>
 <h3>DATE</h3>
